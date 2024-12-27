@@ -1,4 +1,9 @@
 ## Hi there 👋
+**I'm currently studying in NUST learning Computer Science from the basics.**
+Currently working on a mini project, a webscrapper in cpp.
+Eager to learn about computer architecture.
+Interested in learning about the intricacies of neural networks and they're biological counterparts.
+Pronouns are Him/Them.
 
 <!--
 **AbdullahSom/AbdullahSom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
